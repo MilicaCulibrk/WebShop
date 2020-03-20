@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="ISO-8859-1">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/styles.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+        <title>Web Shop</title>
+    </head>
+
+    <body>
+        <div id="app1">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-info">
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                            <ul class="navbar-nav mr-auto">
+                                     <li class="nav-item active">
+        								<a class="nav-link navbar-brand" onclick="getPocetna()" href="">POCETNA <span class="sr-only">(current)</span></a>
+    							    </li>
+                                    <li class="nav-item" >
+                                            <a class="nav-link, navbar-brand" onclick="getPor()"  href="#">PORUKE</a>
+                                    </li>
+                                    <li class="nav-item">
+                                            <a class="nav-link, navbar-brand" onclick="getProfil()"  href="#"> PROFIL </a>
+                                    </li>
+                            </ul>    
+
+                            <button class="btn  btn-warning navbar-btn  navbar-brand"  onclick="getLogin()" v-if="!prijavljen">PRIJAVA</button>
+                            <button class="btn  btn-warning navbar-btn  navbar-brand"  onclick="getLogout()" v-if="prijavljen">ODJAVA</button>
+                            <button class="btn  btn-warning navbar-btn  navbar-brand"   onclick="getRegistration()" v-if="!prijavljen">REGISTRACIJA</button>
+                          
+                    </div>        
+            </nav>
+
+            
+         <router-view></router-view>
+
+        </div>      
+
+<script>
+
+function getPocetna(){
+
+	router.push('/');
+	
+}
+
+function getRegistration(){
+	router.push('/register');
+} 
+
+function getLogin(){
+	router.push('/loginn');
+	
+}
+
+function getLogout(){
+  
+    
+	axios.post('rest/logout')
+    .then(function (response) {
+    	  app.prijavljen = false;
+        alert('Odjavili ste se!');
+        router.push('/');
+   
+    })
+    .catch(function (error) {
+        alert('Neuspesna odjava!');
+    
+    }); 
+}
+
+function getPor() {
+	  axios.post('rest/getUloga')
+	    .then(function (response) {
+	     console.log(response);
+	     
+	     if(response.data != "ADMINISTRATOR" && response.data != "PRODAVAC" && response.data != "KUPAC"){
+	         alert("Niste prijavljeni!");
+	     }else{
+	    	    
+	   	  	router.push('/poruke')
+	     }
+	    })
+	    .catch(function (error) {
+	        alert('neuspesnoa odjava');
+	    
+	    });
+	    
+
+	}
+
+
+function getProfil(){
+	  axios.post('rest/getUloga')
+	    .then(function (response) {
+	      console.log(response);
+
+	      if (response.data=="ADMINISTRATOR"){
+	        router.push('/aProfil');
+        }else if (response.data=="PRODAVAC"){
+	   	        router.push('/pProfil');
+        }else if (response.data=="KUPAC"){
+   	        router.push('/kProfil');
+	    }else {
+	    	 
+	        alert("Niste prijavljeni!");
+	      }
+	    })
+	    .catch(function (error) {
+	        alert('neuspesnoa odjava');
+	    
+	    });
+	    
+	}
+
+
+
+</script>        
+        
+<script src="js/vue.js"></script>
+<script src="js/vue-router.js"></script>
+<script src="js/axios.js"></script>
+<script src="js/jquery.min.js"></script>
+<script src="js/toast.js"></script>
+<script src="app/registracija.js"></script>
+<script src="app/loginn.js"></script>
+<script src="app/pocetnaStr.js"></script>
+<script src="app/admin_profil.js"></script>
+<script src="app/prodavac_profil.js"></script>
+<script src="app/kupac_profil.js"></script>
+<script src="app/poruke.js"></script>
+
+<script src="app/app.js"></script>
+
+</body>

@@ -1,0 +1,81 @@
+[ {
+  "obrisan" : true,
+  "id" : "a12ea131-f022-4852-824c-814f2ef058aa",
+  "oglas" : "5dbdc1ec-1d2b-4e9e-a3ee-1ac40ff5d111",
+  "recenzent" : "a57bc325-5470-4261-bd7e-2eb77c8f0d9b",
+  "naslov" : "Recenzija na punta",
+  "sadrzaj" : "Punto nije ocuvan kao sto je napisano!",
+  "slika" : null,
+  "tacnost" : false,
+  "postovanjeDog" : true
+}, {
+  "obrisan" : false,
+  "id" : "e822ee1e-4f42-4336-ad24-62e45a650b8e",
+  "oglas" : "5015aa32-e485-4341-acc9-7b38c5f6e2a2",
+  "recenzent" : "0c74eaf8-f438-4ee9-b3fa-dc29daa2d0f0",
+  "naslov" : "Recenzija na skodu",
+  "sadrzaj" : "Skoda je imala ogrebotine ",
+  "slika" : "/PocetniRESTL/images/steta.jpg",
+  "tacnost" : false,
+  "postovanjeDog" : false
+}, {
+  "obrisan" : false,
+  "id" : "c52385a8-21bb-4048-9aeb-657654c95d0b",
+  "oglas" : "70aaa2f7-092e-439d-b5c9-e4ed4001f833",
+  "recenzent" : "0b520fbf-e764-416d-bfcc-bc55f0755e4a",
+  "naslov" : "Stan",
+  "sadrzaj" : "Jako sam zadovoljan saradnjom sa kupcem, sve preporuke",
+  "slika" : null,
+  "tacnost" : true,
+  "postovanjeDog" : true
+}, {
+  "obrisan" : false,
+  "id" : "3430784d-754b-4192-a478-bd955eb826f6",
+  "oglas" : "5dbdc1ec-1d2b-4e9e-a3ee-1ac40ff5d111",
+  "recenzent" : "a57bc325-5470-4261-bd7e-2eb77c8f0d9b",
+  "naslov" : "Recenzija za kola",
+  "sadrzaj" : "zadovoljna sam veoma, brz i lak dogovor sa prodavcem",
+  "slika" : "/PocetniRESTL/images/punto.jpeg",
+  "tacnost" : false,
+  "postovanjeDog" : false
+}, {
+  "obrisan" : false,
+  "id" : "fa7505bd-1e2f-452c-86be-5926f86e2e7d",
+  "oglas" : "5dbdc1ec-1d2b-4e9e-a3ee-1ac40ff5d111",
+  "recenzent" : "a57bc325-5470-4261-bd7e-2eb77c8f0d9b",
+  "naslov" : "Punto",
+  "sadrzaj" : "zadovoljna sam",
+  "slika" : "/PocetniRESTL/images/sivi.jpg",
+  "tacnost" : true,
+  "postovanjeDog" : true
+}, {
+  "obrisan" : true,
+  "id" : "4acc32b1-6ba7-46ab-a003-6c8b58b1dca8",
+  "oglas" : "26c831bd-0155-474c-afcc-856f9606d9d3",
+  "recenzent" : "a57bc325-5470-4261-bd7e-2eb77c8f0d9b",
+  "naslov" : "",
+  "sadrzaj" : "",
+  "slika" : null,
+  "tacnost" : false,
+  "postovanjeDog" : false
+}, {
+  "obrisan" : false,
+  "id" : "58fa7db9-7f00-42b1-b077-e24fac9095ea",
+  "oglas" : "5dbdc1ec-1d2b-4e9e-a3ee-1ac40ff5d111",
+  "recenzent" : "a57bc325-5470-4261-bd7e-2eb77c8f0d9b",
+  "naslov" : "nesto",
+  "sadrzaj" : "nesto",
+  "slika" : "/PocetniRESTL/images/prikazTP.png",
+  "tacnost" : true,
+  "postovanjeDog" : false
+}, {
+  "obrisan" : false,
+  "id" : "921044a8-454e-415d-be5d-94ac815e73c8",
+  "oglas" : "ede6dd9e-e869-402b-aec4-76da8407ccfd",
+  "recenzent" : "0c74eaf8-f438-4ee9-b3fa-dc29daa2d0f0",
+  "naslov" : "Recenzija na busilicu",
+  "sadrzaj" : "Bas sam zadovoljan, sve je kao po dogovoru",
+  "slika" : null,
+  "tacnost" : true,
+  "postovanjeDog" : true
+} ]

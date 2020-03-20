@@ -1,0 +1,433 @@
+[ {
+  "obrisan" : false,
+  "id" : "e38562f0-6ab5-4463-a489-0f864e9ff6f4",
+  "nazivOglasa" : null,
+  "posiljalac" : "masa",
+  "naslov" : "odg",
+  "datum" : "2019-08-14 21:59:35+0200",
+  "sadrzaj" : "hvala, nadam se daljoj saradnji"
+}, {
+  "obrisan" : false,
+  "id" : "98ab9290-13c4-42a7-8fc0-f496a2d5694a",
+  "nazivOglasa" : null,
+  "posiljalac" : "ana",
+  "naslov" : "Zahvalnost",
+  "datum" : "2019-08-14 21:57:55+0200",
+  "sadrzaj" : "super proizvod"
+}, {
+  "obrisan" : false,
+  "id" : "4a2547f1-42de-4736-905c-72e11aadf6fe",
+  "nazivOglasa" : "auto",
+  "posiljalac" : "ana",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-23 09:48:47+0200",
+  "sadrzaj" : "Izmenjena je recenzija!"
+}, {
+  "obrisan" : false,
+  "id" : "c9cecfc0-0115-47d2-b99a-51b1091781ee",
+  "nazivOglasa" : "Stan",
+  "posiljalac" : "maki",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-25 22:28:40+0200",
+  "sadrzaj" : "Dodata je recenzija!"
+}, {
+  "obrisan" : false,
+  "id" : "aa74b240-8ecc-4dc1-9c94-1a96622a1f77",
+  "nazivOglasa" : "Alat",
+  "posiljalac" : "admin",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-15 21:57:25+0200",
+  "sadrzaj" : "Oglas je izmenjen!"
+}, {
+  "obrisan" : false,
+  "id" : "196ce417-bab0-4cfc-8668-fc6b5f86cc42",
+  "nazivOglasa" : "Biciklo",
+  "posiljalac" : "biki",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-27 22:25:00+0200",
+  "sadrzaj" : "Proizvod je dostavljen!"
+}, {
+  "obrisan" : false,
+  "id" : "01b5c8e7-a05b-4170-a71a-bdc0762ffc65",
+  "nazivOglasa" : "",
+  "posiljalac" : "admin",
+  "naslov" : "Dobrodoslica",
+  "datum" : "2019-08-25 21:20:42",
+  "sadrzaj" : "Hvala na registraciji!"
+}, {
+  "obrisan" : false,
+  "id" : "9a257f34-8980-4a87-82e7-bdcb443278e2",
+  "nazivOglasa" : "auto",
+  "posiljalac" : "admin",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-23 20:56:23+0200",
+  "sadrzaj" : "UPOZORENJE!!! Vas oglas je prijavljen."
+}, {
+  "obrisan" : false,
+  "id" : "31311675-4944-4aa6-99e9-c80703791f44",
+  "nazivOglasa" : "",
+  "posiljalac" : "masa",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-26 17:53:09+0200",
+  "sadrzaj" : "Ovaj oglas je obrisan od strane prodavca"
+}, {
+  "obrisan" : false,
+  "id" : "67f354e1-ed93-4149-8d2f-57f421771642",
+  "nazivOglasa" : "Lap top",
+  "posiljalac" : "ana",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-23 20:25:35+0200",
+  "sadrzaj" : "Proizvod je dostavljen!"
+}, {
+  "obrisan" : false,
+  "id" : "c1c627f7-0e7a-459e-8687-dd95f7cf3ed8",
+  "nazivOglasa" : "Stan ",
+  "posiljalac" : "admin",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-27 22:25:22+0200",
+  "sadrzaj" : "UPOZORENJE!!! Vas oglas je prijavljen."
+}, {
+  "obrisan" : false,
+  "id" : "acab6560-8a09-4f96-8341-c4e848b96f3a",
+  "nazivOglasa" : "Skoda Oktavija",
+  "posiljalac" : "admin",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-22 23:48:51+0200",
+  "sadrzaj" : "Oglas je izmenjen!"
+}, {
+  "obrisan" : false,
+  "id" : "ba36eb07-823d-40fb-9742-627d9dce6d2e",
+  "nazivOglasa" : "nesto",
+  "posiljalac" : "admin",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-20 18:15:05+0200",
+  "sadrzaj" : "Ovaj oglas je obrisan od strane admina"
+}, {
+  "obrisan" : false,
+  "id" : "19edc5af-e6fc-4204-8c65-a1154b2344b6",
+  "nazivOglasa" : "Skoda Oktavija",
+  "posiljalac" : "neca",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-27 22:29:38+0200",
+  "sadrzaj" : "Dodata je recenzija!"
+}, {
+  "obrisan" : false,
+  "id" : "c0e7842b-ef6f-404a-bf1d-af2311ac3179",
+  "nazivOglasa" : "Busilica",
+  "posiljalac" : "neca",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-27 18:21:26+0200",
+  "sadrzaj" : "Dodata je recenzija!"
+}, {
+  "obrisan" : false,
+  "id" : "84fa24b7-e339-48a0-8941-f2219b767c82",
+  "nazivOglasa" : "Skoda Oktavija",
+  "posiljalac" : "admin",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-20 18:08:11+0200",
+  "sadrzaj" : "Oglas je izmenjen!"
+}, {
+  "obrisan" : false,
+  "id" : "d2e9adcf-ae58-46be-8965-e41f3024122d",
+  "nazivOglasa" : "Alat",
+  "posiljalac" : "admin",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-20 18:11:04+0200",
+  "sadrzaj" : "Oglas je izmenjen!"
+}, {
+  "obrisan" : false,
+  "id" : "e646d0bb-89ba-48c7-b9df-65031cdc4e82",
+  "nazivOglasa" : "Skoda Oktavija",
+  "posiljalac" : "admin",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-21 00:56:38+0200",
+  "sadrzaj" : "Oglas je izmenjen!"
+}, {
+  "obrisan" : false,
+  "id" : "2c2c8335-955f-4151-a4c2-951455c4083e",
+  "nazivOglasa" : "",
+  "posiljalac" : "masa",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-26 17:36:58+0200",
+  "sadrzaj" : "Ovaj oglas je obrisan od strane prodavca"
+}, {
+  "obrisan" : false,
+  "id" : "048474f5-0f17-46b5-b82e-4b0b0902e73c",
+  "nazivOglasa" : "auto",
+  "posiljalac" : "ana",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-20 15:29:19+0200",
+  "sadrzaj" : "Dodata je recenzija!"
+}, {
+  "obrisan" : false,
+  "id" : "dba64f46-fd9d-48db-aa1e-158690c22edf",
+  "nazivOglasa" : "Alat",
+  "posiljalac" : "ana",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-15 20:06:45+0200",
+  "sadrzaj" : "Dodata je recenzija!"
+}, {
+  "obrisan" : false,
+  "id" : "b2dd127c-2a22-4c6c-aded-a38ce2dd7ede",
+  "nazivOglasa" : "Busilica",
+  "posiljalac" : "neca",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-27 18:20:40+0200",
+  "sadrzaj" : "Proizvod je dostavljen!"
+}, {
+  "obrisan" : false,
+  "id" : "eb6d15a0-68c2-453f-bf41-902c04bd558f",
+  "nazivOglasa" : "nesto",
+  "posiljalac" : "masa",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-20 11:46:05+0200",
+  "sadrzaj" : "Ovaj oglas je obrisan od strane prodavca"
+}, {
+  "obrisan" : false,
+  "id" : "52c9d310-a19e-487d-bd02-f3643968d919",
+  "nazivOglasa" : "Auto",
+  "posiljalac" : "maki",
+  "naslov" : "Pitanje",
+  "datum" : "2019-08-25 22:02:29",
+  "sadrzaj" : "Zanima me da li imate ugradjen gas?"
+}, {
+  "obrisan" : false,
+  "id" : "3d566c4a-1d23-436c-9066-62d9508245b7",
+  "nazivOglasa" : "auto",
+  "posiljalac" : "ana",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-23 12:01:29+0200",
+  "sadrzaj" : "Izmenjena je recenzija!"
+}, {
+  "obrisan" : false,
+  "id" : "a60ba008-cdc5-4f01-b0fd-f5a507b9385d",
+  "nazivOglasa" : "auto",
+  "posiljalac" : "ana",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-15 21:04:11+0200",
+  "sadrzaj" : "Proizvod je dostavljen!"
+}, {
+  "obrisan" : false,
+  "id" : "d7dfec6c-b802-4573-8c81-44371a0e75aa",
+  "nazivOglasa" : "auto",
+  "posiljalac" : "ana",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-20 15:50:50+0200",
+  "sadrzaj" : "Izmenjena je recenzija!"
+}, {
+  "obrisan" : false,
+  "id" : "e8bb2937-356d-4d64-9ab4-065538c2baa5",
+  "nazivOglasa" : "Stan",
+  "posiljalac" : "maki",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-25 22:27:57+0200",
+  "sadrzaj" : "Proizvod je dostavljen!"
+}, {
+  "obrisan" : false,
+  "id" : "f998807b-91a8-4468-ace7-9e39ce8108d3",
+  "nazivOglasa" : "random2",
+  "posiljalac" : "admin",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-15 18:18:24+0200",
+  "sadrzaj" : "Ovaj oglas je obrisan od strane admina"
+}, {
+  "obrisan" : false,
+  "id" : "13f6b1b1-e29b-41e5-8586-91bb7adb1de9",
+  "nazivOglasa" : null,
+  "posiljalac" : "masa",
+  "naslov" : "Obavestenje",
+  "datum" : "2019-08-14 21:55:33+0200",
+  "sadrzaj" : "Zelim da produzim prijavu."
+}, {
+  "obrisan" : true,
+  "id" : "80b8b700-6093-41c8-b7b3-0d96a9f4f7ac",
+  "nazivOglasa" : null,
+  "posiljalac" : "admin",
+  "naslov" : "Obavestenje",
+  "datum" : "2019-08-14 21:45:47+0200",
+  "sadrzaj" : "imamo promocju na stare oglase"
+}, {
+  "obrisan" : false,
+  "id" : "358adf48-1d93-4943-bbd7-da4358424118",
+  "nazivOglasa" : "Alat",
+  "posiljalac" : "admin",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-20 18:06:08+0200",
+  "sadrzaj" : "Oglas je izmenjen!"
+}, {
+  "obrisan" : true,
+  "id" : "eafd7cf7-3035-418d-bbe2-43c3b541f44d",
+  "nazivOglasa" : null,
+  "posiljalac" : "admin",
+  "naslov" : "Obavestenje",
+  "datum" : "2019-08-14 21:40:35+0200",
+  "sadrzaj" : "drago nam je sto poslujete sa nama"
+}, {
+  "obrisan" : false,
+  "id" : "f5c8a385-4d24-4c21-9ae6-8a8407b601d2",
+  "nazivOglasa" : "Skoda Oktavija",
+  "posiljalac" : "admin",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-21 14:57:33+0200",
+  "sadrzaj" : "Oglas je izmenjen!"
+}, {
+  "obrisan" : false,
+  "id" : "ccaa3830-852b-4191-b593-f12b295a9b78",
+  "nazivOglasa" : "random1",
+  "posiljalac" : "masa",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-15 18:14:14+0200",
+  "sadrzaj" : "Ovaj oglas je obrisan od strane prodavca"
+}, {
+  "obrisan" : false,
+  "id" : "9ae9a30c-189b-4ecb-b857-b108b1e14e5b",
+  "nazivOglasa" : "Skoda Oktavija",
+  "posiljalac" : "admin",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-21 00:56:27+0200",
+  "sadrzaj" : "Oglas je izmenjen!"
+}, {
+  "obrisan" : false,
+  "id" : "eeccb4a2-fb73-4c2f-88ce-3861a7c10fa5",
+  "nazivOglasa" : "Alat",
+  "posiljalac" : "ana",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-15 20:08:44+0200",
+  "sadrzaj" : "Izmenjena je recenzija!"
+}, {
+  "obrisan" : false,
+  "id" : "f74ef07f-f52c-49d1-b510-86f9616a7111",
+  "nazivOglasa" : "",
+  "posiljalac" : "masa",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-26 18:16:27+0200",
+  "sadrzaj" : "Ovaj oglas je obrisan od strane prodavca"
+}, {
+  "obrisan" : false,
+  "id" : "d39dbe31-e049-46a0-9551-7bf2f9b1d272",
+  "nazivOglasa" : "Biciklo",
+  "posiljalac" : "admin",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-27 22:25:03+0200",
+  "sadrzaj" : "UPOZORENJE!!! Vas oglas je prijavljen."
+}, {
+  "obrisan" : false,
+  "id" : "3e84426f-ab47-4b8e-8c07-a48d8349113d",
+  "nazivOglasa" : "Alat",
+  "posiljalac" : "ana",
+  "naslov" : "Pitanje u vezi alata",
+  "datum" : "2019-08-19 22:41:58+0200",
+  "sadrzaj" : "Zanima me da li imate busilice"
+}, {
+  "obrisan" : false,
+  "id" : "8ef35420-6d12-4f8c-bd69-5f5ddeb291ef",
+  "nazivOglasa" : "auto",
+  "posiljalac" : "ana",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-23 12:06:07+0200",
+  "sadrzaj" : "Izmenjena je recenzija!"
+}, {
+  "obrisan" : false,
+  "id" : "03c31114-ac60-47a8-aeb5-ada94b22cbf0",
+  "nazivOglasa" : "auto",
+  "posiljalac" : "ana",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-23 09:58:27+0200",
+  "sadrzaj" : "Dodata je recenzija!"
+}, {
+  "obrisan" : false,
+  "id" : "c4340cf9-f30b-4dbb-8a68-1946bdf0422f",
+  "nazivOglasa" : "Lap top",
+  "posiljalac" : "ana",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-27 18:12:37+0200",
+  "sadrzaj" : "Dodata je recenzija!"
+}, {
+  "obrisan" : false,
+  "id" : "abc0a4aa-50da-476f-a9b0-add93b825e15",
+  "nazivOglasa" : "Stan ",
+  "posiljalac" : "ana",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-20 15:17:56+0200",
+  "sadrzaj" : "Proizvod je dostavljen!"
+}, {
+  "obrisan" : false,
+  "id" : "7e32927d-b61f-4eb4-8d51-9ebd81e2bc2d",
+  "nazivOglasa" : "Stan",
+  "posiljalac" : "maki",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-25 22:42:48+0200",
+  "sadrzaj" : "Izmenjena je recenzija!"
+}, {
+  "obrisan" : false,
+  "id" : "54949f44-2768-4e15-a8cb-08d6acaaa351",
+  "nazivOglasa" : "Alat",
+  "posiljalac" : "admin",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-20 18:11:26+0200",
+  "sadrzaj" : "Ovaj oglas je obrisan od strane admina"
+}, {
+  "obrisan" : false,
+  "id" : "907a401c-ff87-4eeb-8b16-5026fdc0be23",
+  "nazivOglasa" : "",
+  "posiljalac" : "masa",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-26 17:52:58+0200",
+  "sadrzaj" : "Ovaj oglas je obrisan od strane prodavca"
+}, {
+  "obrisan" : false,
+  "id" : "edff3cd5-91c2-4fc0-a6c3-1ee32eed3e74",
+  "nazivOglasa" : "Skoda Oktavija",
+  "posiljalac" : "neca",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-27 22:27:14+0200",
+  "sadrzaj" : "Proizvod je dostavljen!"
+}, {
+  "obrisan" : false,
+  "id" : "d73e447e-4ec8-4c63-86ab-62a884e4c5fe",
+  "nazivOglasa" : "auto",
+  "posiljalac" : "ana",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-23 11:56:27+0200",
+  "sadrzaj" : "Dodata je recenzija!"
+}, {
+  "obrisan" : false,
+  "id" : "fa26a65c-e51d-48a7-98b9-4317e9054a40",
+  "nazivOglasa" : "das",
+  "posiljalac" : "masa",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-26 17:41:24+0200",
+  "sadrzaj" : "Ovaj oglas je obrisan od strane prodavca"
+}, {
+  "obrisan" : false,
+  "id" : "1f2f3cde-db8e-4095-9e36-41c728b209b0",
+  "nazivOglasa" : "Skoda Oktavija",
+  "posiljalac" : "admin",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-22 23:47:40+0200",
+  "sadrzaj" : "Oglas je izmenjen!"
+}, {
+  "obrisan" : false,
+  "id" : "403c5850-4a63-4fb2-b6aa-30bdade0364a",
+  "nazivOglasa" : null,
+  "posiljalac" : "admin",
+  "naslov" : "Obavestenje",
+  "datum" : "2019-08-14 21:40:47+0200",
+  "sadrzaj" : "drago nam je sto ste se registrovali"
+}, {
+  "obrisan" : false,
+  "id" : "72aee0c3-955e-405e-94c5-00e071ce7274",
+  "nazivOglasa" : "Skoda Oktavija",
+  "posiljalac" : "admin",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-27 22:27:17+0200",
+  "sadrzaj" : "UPOZORENJE!!! Vas oglas je prijavljen."
+}, {
+  "obrisan" : false,
+  "id" : "f327a6b1-aaa0-408c-b7c2-563287a1aa92",
+  "nazivOglasa" : "Lap top",
+  "posiljalac" : "admin",
+  "naslov" : "Automatska poruka",
+  "datum" : "2019-08-27 22:25:19+0200",
+  "sadrzaj" : "UPOZORENJE!!! Vas oglas je prijavljen."
+} ]

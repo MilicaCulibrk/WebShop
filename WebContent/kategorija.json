@@ -1,0 +1,49 @@
+[ {
+  "obrisan" : false,
+  "id" : "5987b7c0-b4d7-403f-b1ff-060791473496",
+  "naziv" : "Nekretnine",
+  "opis" : "Sve nekretnine za izdavanje i pordaju",
+  "listaO" : [ ]
+}, {
+  "obrisan" : false,
+  "id" : "a3ca659e-e186-40ee-8a59-050162b6fd5d",
+  "naziv" : "Alat",
+  "opis" : "Alat svih vrsta",
+  "listaO" : [ ]
+}, {
+  "obrisan" : false,
+  "id" : "7c3ec3cc-561f-4882-973c-8c2d93ed3827",
+  "naziv" : "Garderoba",
+  "opis" : "Za sve",
+  "listaO" : [ ]
+}, {
+  "obrisan" : false,
+  "id" : "548732f7-41dd-4281-9931-a0c9cb997266",
+  "naziv" : "Tehnika",
+  "opis" : "elektronski uredjaji",
+  "listaO" : [ ]
+}, {
+  "obrisan" : true,
+  "id" : "9b8ce57e-2d09-46e4-a8f0-28e7ae2e0b32",
+  "naziv" : "dsa",
+  "opis" : "dsa",
+  "listaO" : [ ]
+}, {
+  "obrisan" : false,
+  "id" : "a6ac5328-003e-424f-95ca-47745fff774a",
+  "naziv" : "Namestaj",
+  "opis" : "Sav namestaj",
+  "listaO" : [ ]
+}, {
+  "obrisan" : false,
+  "id" : "65727b69-ca58-431e-b79c-824486091e2f",
+  "naziv" : "Vozila",
+  "opis" : "vozila na pogonska goriva",
+  "listaO" : [ ]
+}, {
+  "obrisan" : true,
+  "id" : "f3b6d3ea-798a-4fe1-8465-d27ea93f9dcc",
+  "naziv" : "bezveze nesto",
+  "opis" : "fnds",
+  "listaO" : [ ]
+} ]

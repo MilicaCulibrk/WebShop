@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Login</title>
+	<script src="./jquery-3.3.1.min.js" type="text/javascript"></script>
+	<script src="./bootstrap.min.js" type="text/javascript"></script>
+	<script src="./login.js" type="text/javascript"></script>
+	<link rel="stylesheet" type="text/css" href="./css/login.css">
+	<link rel="stylesheet" type="text/css" href="./css/bootstrap.css">
+</head>
+<body>
+  <div class="wrapper">
+    <form class="form-signin" id="login">       
+      <h2 class="form-signin-heading">Prijavite se</h2>
+      <input type="text" class="form-control" name="username" placeholder="Username" />
+      <input type="password" class="form-control" name="password" placeholder="Password" />      
+      <button class="btn btn-lg btn-primary btn-block" type="submit">Login</button> 
+       <p>Nemate nalog? <a href="./register.html">Registrujte se</a></p> 
+    </form>
+    
+    <p id="error"></p>
+	<p id="success"></p>
+  </div>
+</body>
+</html>

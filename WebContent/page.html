@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Racuni</title>
+<script src="./jquery-3.3.1.min.js" type="text/javascript"></script>
+<script src="./page.js" type="text/javascript"></script>
+</head>
+<body>
+
+		
+	<form id="dodaj" >
+	<h2>Racuni</h2>
+	<table>
+	<tr>
+		<td><label>Br: </label></td>
+		<td> <input type="text" id="brojRacuna" required></td>
+	</tr>
+	<tr>
+		<td><label>Tip: </label> </td>
+		<td><select id="tip">
+			<option value="0">Dinarski</option>
+			<option value="1">Devizni</option>
+		  </select></td>
+	</tr>
+	<tr>
+		<td><label>Raspolozivo: </label> </td>
+		<td><input type="number" min = "1" id="raspolozivo" required></td>
+	</tr>
+	<tr>
+		<td><label>Rezervisano: </label> </td>
+		<td><input type="number" min="1" id="rezervisano" required></td>
+	</tr>
+	<tr>
+		<td><label>Online: </label> </td>
+		<td><input type="checkbox" id="online"></td>
+	</tr>
+	<tr>
+	<td colspan="2" align="center"><input type="submit" value="Dodaj"></td>
+		
+			
+	</tr>
+	
+	</table>	
+	
+	</form>
+	
+	<form id="racunitabela" >
+	<h2>Prijava</h2>
+	<table border="1" id="tabelaracuna">
+	<thead>
+	<tr>
+		<th>Broj racuna</th>
+		<th>Tip</th>
+		<th>Raspolozivo</th>
+		<th>Rezervisano</th>		
+		<th>Ukupno</th>
+		<th>Online</th>
+		<th>Aktivan</th>
+		
+	</tr>
+	</thead>
+	
+	<tbody>
+      </tbody>
+	</table>
+	
+	
+	</form>
+	
+		
+	<form id="uplata" >
+	<h2>Uplata</h2>
+	<table>
+	<tr>
+		<td><label>Racun: </label></td>
+		<td> <select id="select">
+		</select></td>
+	</tr>
+	<tr>
+		<td><label>Iznos: </label> </td>
+		<td><input type="number" min="1" id="iznos" required></td>
+	</tr>
+	
+	<tr>
+	<td colspan="2" align="center"><input type="submit" value="Dodaj"></td>
+		
+			
+	</tr>
+	
+	</table>	
+	
+	</form>
+	
+	<a href="#odjava">Odjava</a>
+	</body>
+</html>
